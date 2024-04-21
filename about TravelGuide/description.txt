@@ -9,5 +9,5 @@ TravelGuide - форум для путешественников и путеше
 
 TravelGuide - это не просто приложение, это сообщество единомышленников, где каждый путешественник может найти что-то интересное и полезное для себя!
 
-Ссылка: https://travelguide-web.glitch.me
+Ссылка: https://travel-guide-web-project.glitch.me
 Видео с интерфейсом проекта: https://disk.yandex.ru/d/-yBqyxU0XUE5yA
